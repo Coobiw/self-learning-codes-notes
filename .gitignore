@@ -7,3 +7,5 @@ codes/pspnet/ckpt/**/PSPNet_*
 # python conventional ignore
 codes/pytorch-word2vec-glove/Word2Vec/__pycache__/
 codes/pytorch-word2vec-glove/GloVe/__pycache__/
+
+codes/kd/pics/
