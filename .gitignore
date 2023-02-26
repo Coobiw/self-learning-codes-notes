@@ -9,3 +9,4 @@ codes/pytorch-word2vec-glove/Word2Vec/__pycache__/
 codes/pytorch-word2vec-glove/GloVe/__pycache__/
 
 codes/kd/pics/
+codes/kd/augment_pics/
