@@ -8,6 +8,8 @@ Please keep fighting!
 - semantic segmentation and visualization(stacked in Seg_Predictor class) (evaluated on VOC2012-Seg)
 - Word2Vec & GloVe
 - Rumer Detection(use BoW/LSTM/Word2Vec&MLP/BERT) (BERT get 95% acc on val set and 92% acc on test set) (Dataset: CED Dataset which is proposed by Tsinghua Group)
+- Knowledge Distillation Demo(Respone Distillation)
+- Zero-shot Learning Demo(on AwA2 Dataset with just one linear layer)
 
 ## notes
 
